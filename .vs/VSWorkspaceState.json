@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\AdminTemplate",
+    "\\routes"
+  ],
+  "SelectedNode": "\\resources\\views\\AdminTemplate\\KaBarang.blade.php",
+  "PreviewInSolutionExplorer": false
+}
